@@ -9,7 +9,8 @@ form {
 input#submit {
     width: 40%;
     border-radius: 20px 20px 20px 20px;       /*her styler vi tilmeld knappen*/
-    background-color: #b11117;
+    /*her ændre Camilla en farve via github desktop*/
+    background-color: #b11343;
     margin-top: 5%;
 }
 
